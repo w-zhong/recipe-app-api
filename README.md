@@ -1,5 +1,9 @@
 # recipe-app-api
 
+### 创建docker容器
+
+`docker compose build`
+
 ### 使用flake8 lint代码
 
 `docker compose run --rm app sh -c "flake8"`
